@@ -26,7 +26,7 @@
 ### 构建与运行
 
 ```bash
-git clone https://github.com/<你的用户名>/music-player.git
+git https://github.com/Zzj-klwgxdz/TUIMusicPlayerByZzj.git
 cd music-player
 cargo run --release
 ```
